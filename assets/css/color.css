@@ -114,8 +114,8 @@
 .service-block-one .icon .round-shape:after,
 .sticky-header .main-menu .navigation > li.current-menu-item > a {
 	background-image: -moz-linear-gradient( 0deg, rgb(209,100,26) 0%, rgb(192,40,42) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgb(209,100,26) 0%, rgb(192,40,42) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(209,100,26) 0%, rgb(192,40,42) 100%);
+	background-image: -webkit-linear-gradient( 0deg,  rgb(0,30,47) 0%, rgb(108, 189, 217) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(0,30,47) 0%, rgb(108, 189, 217) 100%);
 }
 
 .btn-style-one .btn-title:before {
@@ -149,7 +149,7 @@
 .testimonial-section.style-two .owl-theme .owl-nav .owl-next:hover:before,
 .welcome-block-one:nth-child(1) .inner-box .read-more a:hover,
 .welcome-block-one:nth-child(3) .inner-box .read-more a:hover {
-	color: #d1641a;
+	color: #004c78;
 }
 
 .welcome-block-one:nth-child(2) .inner-box .read-more a:hover {
